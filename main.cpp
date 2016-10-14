@@ -2,6 +2,7 @@
 #include "yhteiskunta.h"
 
 int main(void){
+	Yhteiskunta nwo;
 	Ihminen anssi;
-	Yhteiskunta nwo;	
+	
 }
